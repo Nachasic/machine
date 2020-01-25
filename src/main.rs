@@ -1,3 +1,6 @@
+#![feature(const_fn)]
+#![feature(const_if_match)]
+
 use raylib::prelude::*;
 
 mod theme;
